@@ -1,0 +1,6 @@
+{
+  "name": "FLOURA – Period & Cycle Tracker",
+  "description": "A private, local-first menstrual cycle tracker with smart cycle estimates, symptom and mood logs, analytics, and evidence-based educational resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

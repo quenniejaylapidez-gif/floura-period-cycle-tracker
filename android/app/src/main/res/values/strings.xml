@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FLOURA</string>
+    <string name="title_activity_main">FLOURA</string>
+    <string name="package_name">com.floura.cycletracker</string>
+    <string name="custom_url_scheme">com.floura.cycletracker</string>
+</resources>

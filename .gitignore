@@ -1,0 +1,20 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local Netlify folder
+.netlify
+
+# Android local files and build outputs
+android/.gradle/
+android/local.properties
+android/**/build/
+android/.idea/
+*.jks
+*.keystore
+key.properties
